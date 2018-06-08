@@ -1,0 +1,117 @@
+.no-js .logo img
+{
+float:left; 
+width:223px;
+height:198px;
+margin:-20px;
+padding:0px;
+margin-top:-39px;
+}
+.no-js nav li:hover ul 
+{ 
+display:block; 
+}
+nav 
+{ 
+display:block; 
+margin:0 auto 20px; 
+border:1px solid #222; 
+position:relative; 
+background:linear-gradient(#536E5F,#C8CBBB); 
+font:19px Tahoma, Sans-serif;
+font-family:Lucida Calligraphy; 
+}
+nav ul 
+{ 
+padding:0; 
+margin-top:93px; 
+}
+nav li 
+{ 
+position:relative; 
+float:left; 
+list-style-type:none; 
+}
+nav ul:after 
+{
+content:"."; 
+display:block; 
+height:0; 
+clear:both; 
+visibility:hidden; 
+}
+nav li a 
+{ 
+display:block; 
+padding:10px 20px; 
+border-left:1px solid #999; 
+border-right:1px solid #222; 
+color:#eee; 
+text-decoration:none; 
+padding: 6px 35px;
+}
+nav li a:focus 
+{ 
+outline:none; 
+text-decoration:underline; 
+}
+nav li:first-child a 
+{ 
+border-left:none; 
+}
+nav li.last a 
+{ 
+border-right:none; 
+}
+nav a span 
+{ 
+display:block; 
+float:right; 
+margin-left:5px; 
+}
+nav ul ul 
+{ 
+display:none; 
+width:100%; 
+position:absolute; 
+left:0; 
+background:#6a6a6a; 
+margin-top: -1px;
+}
+nav ul ul li 
+{ 
+float:none; 
+}
+nav ul ul a 
+{ 
+padding:10px 7px;
+border-left:none; 
+border-right:none; 
+font-size:14px; 
+}
+nav ul ul a:hover 
+{ 
+background-color:#555; 
+}
+
+
+.marque h2
+{
+text-align:center;
+margin-top:15px;
+font-family:Lucida Calligraphy;
+color:green;
+background:linear-gradient(#536E5F,#C8CBBB); 
+}
+.banner
+{to
+width:990px;
+margin:10px 0px;
+float:left;
+}
+.banner img
+{
+border-radius:20px;
+height:200px;
+width:400px;
+}
